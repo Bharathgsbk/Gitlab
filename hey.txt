@@ -1,4 +1,2 @@
-Hello 
-How are you
-I am good 
-Well Done
+Welcome to the Git - And It's Complexities of it 
+Let's get this branching strategies 
